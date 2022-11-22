@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-prettier",
+  "rules": {
+    "rule-empty-line-before": "always"
+  }
+}
